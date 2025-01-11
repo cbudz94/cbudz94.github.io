@@ -1,0 +1,23 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TutorialSword: {
+		DisplayName: Epic Rod
+		Tooltip: This sword kills things
+	}
+
+	WoodenSword: {
+		DisplayName: Wooden Sword of Sparking
+		Tooltip: Shoots sparks
+	}
+
+	WoodenSwordOfSparking: {
+		DisplayName: Wooden Sword Of Sparking
+		Tooltip: ""
+	}
+
+	MahoganyAmethystStaff: {
+		DisplayName: Mahogany Amethyst Staff
+		Tooltip: ""
+	}
+}
